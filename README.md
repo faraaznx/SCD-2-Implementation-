@@ -24,3 +24,4 @@ We are sourcing the data from MS SQL Server, transforming it using Informatica a
 ![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Oracle_Result.png)
 
 ## ETL Pipeline
+![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Mapping.png)
