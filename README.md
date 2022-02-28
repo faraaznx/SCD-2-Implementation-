@@ -16,3 +16,6 @@ We are sourcing the data from MS SQL Server, transforming it using Informatica a
 
 ## Target Database
 ![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Target.png)
+
+## Source Table
+![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Souce_table.png)
