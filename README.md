@@ -12,4 +12,4 @@ The field 'Location' is a Slowly changing Dimension (  a dimension whose attribu
 We are sourcing the data from MS SQL Server, transforming it using Informatica and loading it to Oracle server. 
 
 ## Source Database
-
+![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Source.png)
