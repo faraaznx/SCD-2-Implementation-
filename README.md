@@ -10,3 +10,6 @@ The field 'Location' is a Slowly changing Dimension (  a dimension whose attribu
 
 ## ETL Process
 We are sourcing the data from MS SQL Server, transforming it using Informatica and loading it to Oracle server. 
+
+## Source Database
+
