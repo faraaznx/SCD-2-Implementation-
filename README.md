@@ -1,4 +1,4 @@
-# SCD-2-Implementation-
+# SCD-2-Implementation
 ![alt_text](https://images.unsplash.com/photo-1511984804822-e16ba72f5848?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80)
 
 
