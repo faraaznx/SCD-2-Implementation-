@@ -15,4 +15,4 @@ We are sourcing the data from MS SQL Server, transforming it using Informatica a
 ![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Source.png)
 
 ## Target Database
-![alt_text]https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Target.png
+![alt_text](https://github.com/faraaznx/SCD-2-Implementation-/blob/main/Target.png)
